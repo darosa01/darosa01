@@ -4,6 +4,8 @@ I'm a fullstack developer, student and technology enthusiast based in Barcelona.
 - Currently developing web solutions to solve everyday problems :satellite::wrench:
 - Music lover :headphones:
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,nodejs,electron,php,mysql,c,cpp,py)](https://skillicons.dev)
+
 ## Some interesting projects I've developed
 - Penjat (Hangman) - The classic guessing game where one player thinks of a word and the other tries to guess it by suggesting letters within a certain number of guesses. Available in [Catalan](https://perseus.cat/penjat) and [Spanish](https://perseus.cat/penjat-es). 
 
