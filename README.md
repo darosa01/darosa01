@@ -11,6 +11,8 @@ I'm a fullstack developer, student and technology enthusiast based in Barcelona.
 
 - [Life Line](https://perseus.cat/life-line) - A representation of your lifetime relationships. You can introduce up to 5 different relationships, indicating for each year how close it has been. Then you can visualize a graphic representation.
 
+- [Calculadora Castellers](https://darosa01.github.io/CalculadoraCastellers/) - Discover one of the most typical Catalan cultural traditions: Els Castells! This calculator allows you to find out the weight of the castles by entering the number of people that make up each element, as well as an approximate average weight in each case. You can also use the predefined cases to discover the most famous castle types.
+
 
 ## Links
 
