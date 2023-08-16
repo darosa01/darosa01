@@ -1,5 +1,5 @@
 # It's me... David! :cloud::zap:
-I'm a fullstack developer, student and technology enthusiast based in Barcelona.
+I'm a fullstack developer and technology enthusiast based in Barcelona.
 - Interested in development, cybersecurity and networks :computer::key:
 - Currently working as a Cloud Engineer in Consulting :cloud:
 - Always developing web solutions to solve everyday problems :satellite::wrench:
